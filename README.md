@@ -1,5 +1,7 @@
 # Omni Viewer
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/battlecook)
+
 A unified viewer project that supports various formats including audio, image, video, CSV, Parquet, and JSONL.
 
 Available as a VSCode/Cursor extension, JetBrains IDE plugin, and web version.
@@ -37,13 +39,15 @@ The intellij-omni-viewer repository is private, so Issues cannot be created dire
 
 ---
 
-### 3. [omni-viewer-web](https://github.com/battlecook/omni-viewer-web) (In Development)
+### 3. [omni-viewer-web](https://github.com/battlecook/omni-viewer-web)
 
 **Web Version**
 
-- **Status**: In development
-- **Description**: Omni Viewer web application for use in the browser
-- **Features**: Same format support planned (audio, image, video, CSV, Parquet, JSONL, etc.)
+- **Description**: Web application for viewing audio, image, video, and data files in your browser (100% client-side, no server upload)
+- **Features**: Audio (MP3, WAV, OGG, FLAC, etc.), Image (JPG, PNG, GIF, WebP, SVG, etc.), Video (MP4, WebM, OGG), CSV/TSV, Excel (XLSX/XLS), Word (DOCX), PDF, HWP, JSONL, Parquet, and code files (JSON, YAML, Python, JS, TS, HTML, CSS, MD, etc.) with syntax highlighting
+- **Website**: [https://omni-viewer-web.web.app/](https://omni-viewer-web.web.app/)
+- **Repository**: [omni-viewer-web](https://github.com/battlecook/omni-viewer-web) (Nuxt 4, Vue 3, TypeScript; run locally or deploy to Firebase Hosting)
+- **Issues & Inquiries**: [GitHub Issues](https://github.com/battlecook/omni-viewer-web/issues)
 
 ---
 
@@ -59,4 +63,4 @@ The intellij-omni-viewer repository is private, so Issues cannot be created dire
 
 ## License
 
-See each repository for its license. (vscode-omni-viewer: MIT)
+See each repository for its license. (vscode-omni-viewer, omni-viewer-web: MIT)
