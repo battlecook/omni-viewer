@@ -46,8 +46,7 @@ The intellij-omni-viewer repository is private, so Issues cannot be created dire
 - **Description**: Web application for viewing audio, image, video, and data files in your browser (100% client-side, no server upload)
 - **Features**: Audio (MP3, WAV, OGG, FLAC, etc.), Image (JPG, PNG, GIF, WebP, SVG, etc.), Video (MP4, WebM, OGG), CSV/TSV, Excel (XLSX/XLS), Word (DOCX), PDF, HWP, JSONL, Parquet, and code files (JSON, YAML, Python, JS, TS, HTML, CSS, MD, etc.) with syntax highlighting
 - **Website**: [https://omni-viewer-web.web.app/](https://omni-viewer-web.web.app/)
-- **Repository**: [omni-viewer-web](https://github.com/battlecook/omni-viewer-web) (Nuxt 4, Vue 3, TypeScript; run locally or deploy to Firebase Hosting)
-- **Issues & Inquiries**: [GitHub Issues](https://github.com/battlecook/omni-viewer-web/issues)
+- **Issues & Inquiries**: [GitHub Issues](https://github.com/battlecook/omni-viewer/issues)
 
 ---
 
@@ -57,10 +56,10 @@ The intellij-omni-viewer repository is private, so Issues cannot be created dire
 |------------|----------|---------------------|
 | [vscode-omni-viewer](https://github.com/battlecook/vscode-omni-viewer) | VSCode, Cursor | [Issues](https://github.com/battlecook/vscode-omni-viewer/issues) |
 | intellij-omni-viewer | JetBrains IDE | **[Issues](https://github.com/battlecook/omni-viewer/issues)** (this repo) |
-| [omni-viewer-web](https://github.com/battlecook/omni-viewer-web) | Web | [Issues](https://github.com/battlecook/omni-viewer-web/issues) |
+| [omni-viewer-web](https://github.com/battlecook/omni-viewer-web) | Web | **[Issues](https://github.com/battlecook/omni-viewer/issues)** (this repo) |
 
 ---
 
 ## License
 
-See each repository for its license. (vscode-omni-viewer, omni-viewer-web: MIT)
+See each repository for its license. (vscode-omni-viewer: MIT)
