@@ -47,7 +47,7 @@ TypeScript core, so its format coverage and feature set differ from the others.
 | **Shared core (library)** | [omni-viewer-core](https://github.com/battlecook/omni-viewer-core) | [npm](https://www.npmjs.com/package/omni-viewer-core) | [Issues](https://github.com/battlecook/omni-viewer-core/issues) |
 | **VS Code / Cursor** | [vscode-omni-viewer](https://github.com/battlecook/vscode-omni-viewer) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=battlecook.omni-viewer) · [Open VSX](https://open-vsx.org/extension/battlecook/omni-viewer) | [Issues](https://github.com/battlecook/vscode-omni-viewer/issues) |
 | **Chrome** | [omni-viewer-chrome](https://github.com/battlecook/omni-viewer-chrome) | [Chrome Web Store](https://chromewebstore.google.com/detail/omni-viewer/mbhllahknhjahklfinmbnmdlpeommegd) | [Issues](https://github.com/battlecook/omni-viewer-chrome/issues) |
-| **Obsidian** | [omni-viewer-obsidian](https://github.com/battlecook/omni-viewer-obsidian) | Manual install (see repo) | [Issues](https://github.com/battlecook/omni-viewer-obsidian/issues) |
+| **Obsidian** | [omni-viewer-obsidian](https://github.com/battlecook/omni-viewer-obsidian) | [Obsidian Plugin](https://community.obsidian.md/plugins/omni-viewer) | [Issues](https://github.com/battlecook/omni-viewer-obsidian/issues) |
 | **Web** | private | [omni-viewer-web.web.app](https://omni-viewer-web.web.app/) | **[Issues here](https://github.com/battlecook/omni-viewer/issues)** ↓ |
 | **JetBrains IDEs** | private | [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/28550-omni-viewer) | **[Issues here](https://github.com/battlecook/omni-viewer/issues)** ↓ |
 
